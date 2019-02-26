@@ -39,7 +39,10 @@ header {
   font-weight: bold;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+#catchy{
+  font-size: 10px;
+  font-style: italic;
+}
 #layout {
   display: block;
   position: relative;
